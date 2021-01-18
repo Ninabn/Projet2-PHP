@@ -1,0 +1,16 @@
+body {
+    margin:20px;
+}
+
+#Menu {
+    width: 80%;
+}
+
+button {
+    margin: 20px;
+}
+
+.mot {
+    color: rebeccapurple!important;
+    background-color: red!important;
+}
